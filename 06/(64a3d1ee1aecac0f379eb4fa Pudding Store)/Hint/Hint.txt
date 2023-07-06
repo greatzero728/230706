@@ -1,0 +1,3 @@
+The main challenge is n ≤ 10^9.
+So you can't calculate 2^n-3 step by step.
+To do this, you can use a fast multiplication algorithm.

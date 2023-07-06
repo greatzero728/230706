@@ -1,0 +1,4 @@
+Let's denote the center of the circle as P, the lower-left corner as A, the upper-right corner as B, and the upper-left corner as F.
+Then, you only need to find X to intersect line AF and circle P, and Y to intersect line BF and circle P.
+Then, the final answer is the sum = area of triangle XYF + area of fan XPY - area of triangle XYP.
+To find X and Y you can use the binary search algorithm in lines FA and FB.

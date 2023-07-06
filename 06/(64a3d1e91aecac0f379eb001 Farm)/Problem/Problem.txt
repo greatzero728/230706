@@ -1,0 +1,3 @@
+Your task is to calculate the area of the common part of a circle and a rectangle.
+Here, the edges of the rectangle are paralleled with the axes.
+And the upper-left corner is positioned in a circle, and the width and height of the rectangle are bigger than the diameter of the circle.
